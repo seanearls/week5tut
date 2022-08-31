@@ -1,0 +1,8 @@
+.hideMessage{
+    display:none;
+}
+.showMessage{
+    display:block;
+    background-color: lightgray;
+    padding: 1em;
+}
